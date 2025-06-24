@@ -2,7 +2,6 @@
 
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 80px; flex-wrap: wrap;">
-
     <!-- Frontend -->
     <div style="text-align: center;">
       <h3>Frontend</h3>
@@ -15,7 +14,6 @@
         </a>
       </div>
     </div>
-
     <!-- Backend -->
     <div style="text-align: center;">
       <h3>Backend</h3>
@@ -40,7 +38,6 @@
         </a>
       </div>
     </div>
-
     <!-- DevOps -->
     <div style="text-align: center;">
       <h3>DevOps</h3>
