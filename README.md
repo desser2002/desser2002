@@ -1,7 +1,7 @@
 ## My Skill Set
 
 <div align="center">
-  <div style="display: flex; justify-content: center; gap: 80px; flex-wrap: wrap;">
+  <div style="display: flex; justify-content: center; flex-wrap: nowrap; gap: 100px;">
     <!-- Frontend -->
     <div style="text-align: center;">
       <h3>Frontend</h3>
@@ -17,7 +17,7 @@
     <!-- Backend -->
     <div style="text-align: center;">
       <h3>Backend</h3>
-      <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">
+      <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; max-width: 250px;">
         <a href="https://nestjs.com/" target="_blank">
           <img src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" />
         </a>
