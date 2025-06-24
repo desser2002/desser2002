@@ -14,7 +14,7 @@
 
 ###
 
-<h3 align="left">🛠 Технологии:</h3>
+<h3 align="left">🛠 Tech Stack:</h3>
 
 ###
 
@@ -39,7 +39,7 @@
 
 ###
 
-<h3 align="left">🔥   Моя статистика :</h3>
+<h3 align="left">🔥 My Stats :</h3>
 
 ###
 
