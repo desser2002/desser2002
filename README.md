@@ -1,8 +1,6 @@
 ## My Skill Set
 
 <div align="center">
-
-  <!-- Wrapper for three columns -->
   <div style="display: flex; justify-content: center; gap: 80px; flex-wrap: wrap;">
 
     <!-- Frontend -->
@@ -47,7 +45,7 @@
     <div style="text-align: center;">
       <h3>DevOps</h3>
       <div style="display: flex; justify-content: center; gap: 15px;">
-        <a href="https://github.com/" target="_blank">
+        <a href="https://git-scm.com/" target="_blank">
           <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
         </a>
         <a href="https://www.docker.com/" target="_blank">
@@ -57,5 +55,4 @@
     </div>
 
   </div>
-
 </div>
