@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<br/>  
 
 
 ## My Skill Set  
@@ -40,5 +39,4 @@
 </div>
 
 </td></tr></table>  
-
-<br/>  
+ 
