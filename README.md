@@ -63,6 +63,8 @@ I have a strong interest in the development of AI in the enterprise space — es
 ###
 
 ### 🛠️ My Projects
-<a href="https://github.com/desser2002/TaskManager" target="_blank">
-  <img alt="task manager" src="./card-checklist.svg" height="68" align="left">
+
+<a href="https://github.com/desser2002/TaskManager" target="_blank" style="text-decoration: none; color: inherit;">
+  <img alt="task manager" src="./card-checklist.svg" height="68" align="left" style="filter: invert(1); margin-right: 12px;" />
+  <span style="line-height: 68px; vertical-align: middle; font-size: 18px; font-weight: bold;">Task Manager</span>
 </a>
