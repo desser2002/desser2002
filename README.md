@@ -22,26 +22,6 @@ I have a strong interest in the development of AI in the enterprise space — es
 
 <h3 align="left">🛠 Tech Stack:</h3>
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
-  <img width="12" />
-  <img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" height="40" alt="Spring logo" />
-  <img width="12" />
-  <img src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" height="40" alt="Redis logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
-  <img width="12" />
-  <img src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" height="40" alt="NestJS logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
-</div>
-
 
 ###
 
