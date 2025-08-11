@@ -42,7 +42,7 @@ I have a strong interest in the development of AI in the enterprise space — es
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=desser2002&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com/?user=desser2002&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"  />
 </div>
 
 ###
