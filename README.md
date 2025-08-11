@@ -41,11 +41,6 @@ I have a strong interest in the development of AI in the enterprise space — es
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=desser2002&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"  />
-</div>
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=desser2002&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
